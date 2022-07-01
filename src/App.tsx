@@ -7,7 +7,7 @@ function App() {
 		<div className="flex flex-wrap justify-center">
 			<Navbar />
 			<div className="flex basis-1/2 mt-10 bg-split-blue-white">
-				<img src={evan} alt="Evan LaHurd, the website's creator" className="w-36"></img>
+				<img src={evan} alt="Evan LaHurd, the website's owner" className="w-36"></img>
 			</div>
 		</div>
 	);
